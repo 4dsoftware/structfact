@@ -1,0 +1,2 @@
+# structfact
+structure factor calculation
